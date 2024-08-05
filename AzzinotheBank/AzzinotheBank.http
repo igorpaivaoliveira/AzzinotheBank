@@ -1,0 +1,6 @@
+@AzzinotheBank_HostAddress = http://localhost:5081
+
+GET {{AzzinotheBank_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
